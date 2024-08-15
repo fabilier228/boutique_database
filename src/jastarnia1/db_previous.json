@@ -1,0 +1,52 @@
+[
+    {
+        "nazwa": "T-shirt",
+        "ilosc": 96,
+        "ostatniaZmiana": "2024-06-20 10:59:47.137648"
+    },
+    {
+        "nazwa": "Jeans",
+        "ilosc": 56,
+        "ostatniaZmiana": "2024-06-20 10:59:47.137648"
+    },
+    {
+        "nazwa": "Sweater",
+        "ilosc": 40,
+        "ostatniaZmiana": "2024-06-20 10:59:47.137648"
+    },
+    {
+        "nazwa": "Jacket",
+        "ilosc": 30,
+        "ostatniaZmiana": "2024-06-20 10:59:47.137648"
+    },
+    {
+        "nazwa": "Dress",
+        "ilosc": 50,
+        "ostatniaZmiana": "2024-06-20 10:59:47.137648"
+    },
+    {
+        "nazwa": "Shorts",
+        "ilosc": 80,
+        "ostatniaZmiana": "2024-06-20 10:59:47.137648"
+    },
+    {
+        "nazwa": "Skirt",
+        "ilosc": 20,
+        "ostatniaZmiana": "2024-06-20 10:59:47.137648"
+    },
+    {
+        "nazwa": "Blouse",
+        "ilosc": 70,
+        "ostatniaZmiana": "2024-06-20 10:59:47.137648"
+    },
+    {
+        "nazwa": "Coat",
+        "ilosc": 36,
+        "ostatniaZmiana": "2024-06-20 10:59:47.137648"
+    },
+    {
+        "nazwa": "Hat",
+        "ilosc": 44,
+        "ostatniaZmiana": "2024-06-20 10:59:47.137648"
+    }
+]
